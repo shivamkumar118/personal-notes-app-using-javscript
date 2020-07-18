@@ -127,16 +127,3 @@ search.addEventListener("input",function(){
         }
     })
 })
-
-
-
-/*
-
-
-  Further Features:
-  1. Add Title
-  2. Mark a note as important
-  3. Separate notes by user.
-  4. sync and host to web server.
-
-*/
